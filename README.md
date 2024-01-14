@@ -1,0 +1,1 @@
+This project was create to use ARIMA model to predict behave of a dataset.
